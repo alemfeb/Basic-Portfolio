@@ -1,0 +1,109 @@
+
+
+
+.MyName {
+	background-color:#26A69A;
+	color:white;
+	width:168px;
+	height:50px;
+	margin: 30px 100px 10px 100px;
+	text-align: center;
+
+}
+
+    
+li  {
+	display: inline;
+	font-family: 'Georgia', Times, Times New Roman, serif;	
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+
+.name  {
+    display: inline;
+    font-family: 'Georgia', Times, Times New Roman, serif;  
+    list-style-type: none;
+    background-color: #4aaaa5;
+    font-size: 32px;
+    color:white;
+    padding: 10px;
+    margin-right:450px;
+    margin-left:0px;
+}
+ul  {
+      list-style-type: none;    
+      margin:20px 80px 0px 100px;
+      
+   }
+
+
+h3 {
+	color: #26A69A
+}
+
+.image {
+     
+     margin: 70px 0px 150px 140px;
+     background:#ffffff;
+     padding: 40px 40px 40px 40px;
+     
+     width:40%;
+     height:25%;    
+    
+}
+
+.Paragraph {
+     margin: 70px 0px 150px 140px;
+     background:#ffffff;
+     padding: 0px 20px 100px 90px;
+     border-width: 40px 500px 10px 50px; 
+     width:40%;
+     height:25%;    
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+body{
+	background-color: #dddddd;
+
+}
+
+footer {
+    background-color: #666666;
+	position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 2rem;
+    text-align: center;
+    color:white;
+}
+
+
+.connect {
+     
+     margin: 60px 850px;
+	 position: top;
+     text-align: center;
+     float:left;
+     width:246px;
+     height:181px;
+     background-color: #ffffff;
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+form{
+	 
+     width:595px;
+     padding: 0px 30px 30px 40px;
+     height:455px;
+     background-color: #ffffff;
+     margin: 60px 10px 120px 139px;
+     
+}
+
+textarea {
+    resize: none;
+}
